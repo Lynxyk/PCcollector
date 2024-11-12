@@ -1,0 +1,38 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¶æµ¶
+J
+java:S3740"/Provide the parametrized type for this generic.(†‹ıÖûÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(‘Öâºúÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(£Ğ©±ùÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(£Ğ©±ùÿÿÿÿ
+J
+java:S37408"/Provide the parametrized type for this generic.(¢äğúşÿÿÿÿ
+J
+java:S3740E"/Provide the parametrized type for this generic.(º¡îËúÿÿÿÿ
+h	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÈûÿÿÿÿ
+j	java:S116"PRename this field "LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İö¹¸úÿÿÿÿ
+h	java:S116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğİ
+<
+java:S1170"!Make this final field static too.(úÈûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(İö¹¸úÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(Èğİ
+A
+java:S2326	"&ObjectChoice is not used in the class.(÷ŒšÍûÿÿÿÿ
+c	java:S119	"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(÷ŒšÍûÿÿÿÿ
+]
+java:S1192!"GDefine a constant instead of duplicating this literal "volume" 3 times.( ¦ó²
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ğ©±ùÿÿÿÿ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸€şç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÚÅ úÿÿÿÿ
+]
+java:S3973L"GUse indentation to denote the code conditionally executed by this "if".(øøµì
+]
+java:S3973N"GUse indentation to denote the code conditionally executed by this "if".(’şØ¸
+
+java:S2681N"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(’şØ¸

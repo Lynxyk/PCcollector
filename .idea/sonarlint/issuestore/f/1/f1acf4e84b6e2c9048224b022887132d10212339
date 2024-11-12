@@ -1,0 +1,43 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(†Ì…
+E
+java:S3740"/Provide the parametrized type for this generic.(ÔšÎ“
+J
+java:S3740*"/Provide the parametrized type for this generic.(¹çğıüÿÿÿÿ
+D
+java:S3740-"/Provide the parametrized type for this generic.(Ñğö
+J
+java:S3740."/Provide the parametrized type for this generic.(Ä¹‰ùÿÿÿÿ
+E
+java:S3740/"/Provide the parametrized type for this generic.(Á¦äé
+Q
+java:S37400"/Provide the parametrized type for this generic.(á–âõøÿÿÿÿ8€ã­«’0
+J
+java:S37401"/Provide the parametrized type for this generic.(Ù¶°üÿÿÿÿ
+J
+java:S37402"/Provide the parametrized type for this generic.(¢Õ†°øÿÿÿÿ
+Q
+java:S37403"/Provide the parametrized type for this generic.(ï¼¡ïıÿÿÿÿ8€ã­«’0
+Q
+java:S37404"/Provide the parametrized type for this generic.(¨ƒÈ¿ÿÿÿÿÿ8ã­«’0
+Q
+java:S37405"/Provide the parametrized type for this generic.(ÌŸûıÿÿÿÿ8ã­«’0
+E
+java:S3740~"/Provide the parametrized type for this generic.(™çùÃ
+K
+java:S3740Š"/Provide the parametrized type for this generic.(ìæ±ëşÿÿÿÿ
+F
+java:S3740–"/Provide the parametrized type for this generic.(˜¼“À
+K
+java:S3740¢"/Provide the parametrized type for this generic.(ìæ±ëşÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†Ì…
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+c
+java:S1192""HDefine a constant instead of duplicating this literal "Game PC" 3 times.(Ï«Œ×ûÿÿÿÿ
+b
+java:S1192@"GDefine a constant instead of duplicating this literal "volume" 5 times.(â—Ã½üÿÿÿÿ
+s	java:S1357"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÚÅ úÿÿÿÿ

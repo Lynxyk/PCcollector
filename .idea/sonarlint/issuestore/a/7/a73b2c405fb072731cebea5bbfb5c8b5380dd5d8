@@ -1,0 +1,17 @@
+
+h	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊΘϋÿÿÿÿ
+j	java:S116"PRename this field "LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έφΉΈϊÿÿÿÿ
+h	java:S116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Θπέ
+<
+java:S1170"!Make this final field static too.(ϊΘϋÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(έφΉΈϊÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(Θπέ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µΪΕ ϊÿÿÿÿ
+]
+java:S39738"GUse indentation to denote the code conditionally executed by this "if".(ψψµμ
+]
+java:S3973:"GUse indentation to denote the code conditionally executed by this "if".(’ώΨΈ
+
+java:S2681:"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(’ώΨΈ

@@ -1,0 +1,30 @@
+
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(á‘ÁÎ
+Q
+java:S2696a"6Make the enclosing method "static" or remove this set.(Ë²“Ñıÿÿÿÿ
+F
+java:S2093˜"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+F
+java:S2093§"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S
+java:S1128"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8­è«’0
+X
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8­è«’0
+N
+java:S1128
+",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8®è«’0
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8®è«’0
+a
+java:S1128"?Remove this unused import 'ChoiceComponents.MinPriceComponent'.(•ğôÍşÿÿÿÿ8®è«’0
+W
+java:S1128"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ıÿÿÿÿ8®è«’0
+]
+java:S1192["HDefine a constant instead of duplicating this literal "Game PC" 4 times.(–ü«[
+P
+java:S1141j"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(Šê¡ğşÿÿÿÿ8Ëàç«’0
+c
+java:S3973®"GUse indentation to denote the code conditionally executed by this "if".(¯´°–ùÿÿÿÿ

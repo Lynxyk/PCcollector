@@ -1,0 +1,22 @@
+
+h	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊΘϋÿÿÿÿ
+j	java:S116"PRename this field "LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(έφΉΈϊÿÿÿÿ
+h	java:S116"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Θπέ
+k	java:S116"QRename this field "UPDATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Θ―€Λϊÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ϊΘϋÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(έφΉΈϊÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(Θπέ
+p
+java:S1450"URemove the "UPDATE" field and declare it as a local variable in the relevant methods.(Θ―€Λϊÿÿÿÿ
+P
+java:S1161)":Add the "@Override" annotation above this method signature(“–ύώ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΔβW
+d
+java:S3973;"GUse indentation to denote the code conditionally executed by this "if".(ψψµμ8Ϊ―’0
+d
+java:S3973="GUse indentation to denote the code conditionally executed by this "if".(’ώΨΈ8Ϊ―’0
+¤
+java:S2681="†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(’ώΨΈ8Ϊ―’0

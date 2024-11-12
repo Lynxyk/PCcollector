@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="702.0" style="-fx-background-color: #CCFFFF;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.myfirstapp.AssemblyController">
+    <children>
+        <ImageView fitHeight="400.0" fitWidth="702.0" layoutX="1.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../../../image/background0003.png" />
+            </image>
+        </ImageView>
+        <Button fx:id="buttonClose" layoutX="34.0" layoutY="343.0" mnemonicParsing="false" onAction="#goClose" prefHeight="45.0" prefWidth="107.0" style="-fx-background-color: #d02020;" text="close">
+            <font>
+                <Font name="Palatino Linotype" size="14.0" />
+            </font>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor>
+            <textFill>
+                <LinearGradient endX="0.95260663507109" endY="0.7298578199052133" startX="0.7725118483412323">
+                    <stops>
+                        <Stop>
+                            <color>
+                                <Color />
+                            </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                            <color>
+                                <Color green="1.0" blue="1.0" />
+                            </color>
+                        </Stop>
+                    </stops>
+                </LinearGradient>
+            </textFill>
+        </Button>
+      <Text fill="AQUA" layoutX="180.0" layoutY="140.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Your final assembly:" wrappingWidth="374.13671875">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <Label fx:id="coolingLabelPrice" layoutX="586.0" layoutY="176.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="coolingLabel" layoutX="180.0" layoutY="176.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="motherboardLabel" layoutX="180.0" layoutY="203.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="ramLabel" layoutX="180.0" layoutY="230.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="gpuLabel" layoutX="180.0" layoutY="338.0" prefHeight="27.0" prefWidth="374.0" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="blockPowerLabel" layoutX="180.0" layoutY="257.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="hddLabel" layoutX="180.0" layoutY="365.0" prefHeight="27.0" prefWidth="374.0" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="ssdLabel" layoutX="180.0" layoutY="284.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="caseLabel" layoutX="180.0" layoutY="311.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Hyperlink fx:id="storelink" layoutX="657.0" layoutY="78.0" onAction="#openStoreLink" text="Store" textFill="AQUA" />
+      <Label fx:id="motherboardLabelPrice" layoutX="586.0" layoutY="203.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="ramLabelPrice" layoutX="586.0" layoutY="230.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="blockPowerLabelPrice" layoutX="586.0" layoutY="257.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="ssdLabelPrice" layoutX="586.0" layoutY="284.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="caseLabelPrice" layoutX="586.0" layoutY="311.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="gpuLabelPrice" layoutX="586.0" layoutY="338.0" prefHeight="27.0" prefWidth="107.0" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="hddLabelPrice" layoutX="586.0" layoutY="365.0" prefHeight="27.0" prefWidth="107.0" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Text fill="AQUA" layoutX="581.0" layoutY="140.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Price:" wrappingWidth="107.0">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <Label fx:id="cpuLabel" layoutX="180.0" layoutY="149.0" prefHeight="27.0" prefWidth="374.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="cpuLabelPrice" layoutX="586.0" layoutY="149.0" prefHeight="27.0" prefWidth="107.0" text="Label" textFill="AQUA">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="finalPriceLabel" layoutX="34.0" layoutY="298.0" prefHeight="35.0" prefWidth="128.0" textFill="RED">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="34.0" layoutY="267.0" prefHeight="27.0" prefWidth="107.0" text="final price" textFill="RED">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="buttonbakck" layoutX="180.0" layoutY="343.0" mnemonicParsing="false" onAction="#goBack" prefHeight="45.0" prefWidth="107.0" style="-fx-background-color: #d02020;" text="back">
+         <font>
+            <Font name="Palatino Linotype" size="14.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <textFill>
+            <LinearGradient endX="0.95260663507109" endY="0.7298578199052133" startX="0.7725118483412323">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color green="1.0" blue="1.0" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Button>
+    </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+
+S
+java:S2696;"6Make the enclosing method "static" or remove this set.(¹¥¾ï8Òí‰ü0
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(›ôÙ¦
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8éí‰ü0
+J
+java:S1128"-Remove this unused import 'UpdateDB.Updater'.(»Ù½Ó8ÕŠÆú‘0
+E
+java:S1128"/Remove this unused import 'UpdateDB.UpdaterDB'.(ÇùÒ
